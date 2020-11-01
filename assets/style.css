@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(186, 203, 209)
+}
+h1, h2, h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center; 
+    padding: 10px;
+}
+#questions {
+    margin:auto;
+}
+
+.container {
+    text-align: center;
+}
+
+.quiz {
+   display: inline-block; 
+}
